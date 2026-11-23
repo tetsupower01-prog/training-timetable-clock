@@ -1,0 +1,27 @@
+{
+  "name": "訓練時間割時計",
+  "short_name": "時間割時計",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#141d29",
+  "theme_color": "#141d29",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
